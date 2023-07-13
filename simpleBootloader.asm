@@ -28,7 +28,7 @@ end:
 output: db "EXAMPLE OF A SIMPLE BOOTLOADER", 0x0a, " s/o CIT - INPT", 0x00
 
 ; the next line is to fill the bootloader with nullbytes 0x00 in order to reach 512 bytes
-times 510 - ($-$$) db 0
+times 510 - ($-$$) db 0x00
 
 ;every bootloader must end with bytes 0xaa and 0x55
 dw 0xaa55
