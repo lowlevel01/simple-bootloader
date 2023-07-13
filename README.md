@@ -8,6 +8,6 @@
 -  make clean
 
 
-#  A screenshot of the bootloader when run.
+##  A screenshot of the bootloader when run.
 
 ![bootloader](https://raw.githubusercontent.com/lowlevel01/simple-bootloader/main/bootloader.png "bootloader")
