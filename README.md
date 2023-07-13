@@ -3,7 +3,7 @@
   make\
   make run\
 #To clean:\
-  make clean\
+  make clean
 
 #A screenshot of the bootloader when run
 
