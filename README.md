@@ -1,4 +1,4 @@
-# A basic example of a bootloader
+# An example of a bootloader
 
 **To launch the bootloader, use the commands:**
 -  make
